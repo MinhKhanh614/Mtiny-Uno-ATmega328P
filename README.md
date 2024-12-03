@@ -70,7 +70,7 @@ Mạch Mtiny Uno ATmega328P (Arduino Compatible) được nghiên cứu và và 
   </tr>
   <tr>
     <td>Programmer</td>
-    <td><a href="https://wiki.makerlab.vn/index.php/M%E1%BA%A1ch_Mtiny_Programmer_(Arduino_Compatible)" target="_blank" rel="noopener noreferrer">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
+    <td><a href="https://makerlab.vn/mtprogrammer" target="_blank" rel="noopener noreferrer">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
   </tr>
   <tr>
     <td>Programmer Connector</td>
@@ -178,4 +178,4 @@ Trong các trường hợp đã nạp chương trình (không cần sử dụng 
 ## Nhà phân phối
 Có thể mua Mạch Mtiny Uno ATmega328P (Arduino Compatible) tại các nhà phân phối sau:
 
-- [Hshop.vn - Điện tử & Robot.](hshop.vn)
+- [Hshop.vn - Điện tử & Robot.](https://hshop.vn)
